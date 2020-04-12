@@ -1,5 +1,5 @@
 # QGraphicsItem-Snapping
-Simple snapping implementation using QGraphicsItem.
+**Very simple** snapping implementation using QGraphicsItem.
 
 # Motivation
 To be used in a personal project
@@ -24,6 +24,6 @@ m_graphicsScene->addItem(item);
 
 ```
 # Screenshot
-
+<img src="https://github.com/jeisonsantiago/QGraphicsItem-Snapping/blob/master/snapBlocks.gif" alt="" height="50%" width="50%"/></br>
 # License
 [The MIT License (MIT)](http://www.opensource.org/licenses/mit-license.php)
