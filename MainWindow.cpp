@@ -51,7 +51,7 @@ MainWindow::MainWindow(QWidget *parent)
     item2->setPos(1,1);
     m_graphicsScene->addItem(item2);
 
-    BlockGraphicsItem *item3 = new BlockGraphicsItem("Test ");
+    BlockGraphicsItem *item3 = new BlockGraphicsItem("Test 2");
     item3->setPos(1,200);
     m_graphicsScene->addItem(item3);
 }
