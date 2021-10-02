@@ -1,5 +1,5 @@
 # QGraphicsItem-Snapping
-**Very simple** snapping implementation using QGraphicsItem.
+**Very simple** snapping implementation using QGraphicsItem with SceneEvents
 
 # Motivation
 To be used in a personal project
